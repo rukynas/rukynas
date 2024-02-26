@@ -8,7 +8,7 @@ I have been a customer support specialist and wish to learn more about data. I h
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [rukynas08@gmail.com](mailto:rukynas08@gmail.com)
-* 🧠  I'm learning 30 days of python
+* 🧠  I'm learning python
 * 🤝  I'm open to collaborating on Data annotation
 
 ### Skills
