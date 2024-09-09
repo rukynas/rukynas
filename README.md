@@ -7,7 +7,7 @@ Data annotator | Data analyst | customer support rep
 A dedicated and detail-oriented data annotation specialist, data analyst, and customer support representative. possesses excellent communication, interpersonal, and organizational skills. ability to work both independently and collaboratively, manage several tasks at once, and produce excellent results.
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [coming soon](http://https://www.notion.so/Hi-I-m-Ruqayya-Nasir-Iro-3c5c8127aa1442bfb2f8619f0af2e829?pvs=4)
+* 🖥️  See my portfolio at [Ruqayya's portfolio](https://rebel-supply-4a1.notion.site/Ruqayya-s-portfolio-3c5c8127aa1442bfb2f8619f0af2e829)
 * ✉️  You can contact me at [rukynas08@gmail.com](mailto:rukynas08@gmail.com)
 * 🧠  I'm learning I'm learning data analysis using google sheet, python , SQL
 * 🤝  I'm open to collaborating on Data annotation, entry level data analysis,
