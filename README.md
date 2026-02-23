@@ -4,7 +4,7 @@ Hi 👋 My name is Ruqayya Nasir Iro
 Data annotator | Data analyst | customer support rep
 ----------------------------------------------------
 
-A dedicated and detail-oriented data annotation specialist, data analyst, and customer support representative. possesses excellent communication, interpersonal, and organizational skills. ability to work both independently and collaboratively, manage several tasks at once, and produce excellent results.
+I am an AI Data Annotation and LLM Evaluation Specialist with over five years experience supporting machine learning and large language model development. I have experience in multimodal annotation across text, image, audio, and video datasets, with a strong focus on accuracy, and quality improvement. I had contributed to large-scale hate speech, semantic similarity, and model performance projects, including multilingual datasets in English and Hausa. I am currently pursuing MSc Computer science with data science at university of sunderland UK
 
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [Ruqayya's portfolio](https://rebel-supply-4a1.notion.site/Ruqayya-s-portfolio-3c5c8127aa1442bfb2f8619f0af2e829)
